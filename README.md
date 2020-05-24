@@ -2,7 +2,7 @@
 A web app visualizing the outputs of different layers in Neural Network.
 
 ### Steps to run the app
-1. Clone the repository
+1. Clone the repository using
   ```  git clone  https://github.com/charithesh16/Neural-Network-Visualizer.git```
 2. Open the folder and create a python virtual enviornment using 
 ``` python3 -m venv venv```
